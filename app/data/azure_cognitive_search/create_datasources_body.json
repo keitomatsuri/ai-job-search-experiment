@@ -1,0 +1,6 @@
+{
+    "name" : "myDsName",
+    "type" : "azureblob",
+    "credentials" : { "connectionString" : "myConnectionString" },
+    "container" : { "name" : "myContainerName"}
+}

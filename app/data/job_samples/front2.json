@@ -1,0 +1,18 @@
+{
+  "id": "000002",
+  "company_name": "イノベーションフュージョン株式会社",
+  "job_category": "フロントエンドエンジニア",
+  "employment_type": "正社員",
+  "location": "神奈川県横浜市港北区",
+  "number_of_employees": "80",
+  "years_in_business": "12",
+  "job_description": "担当プロジェクトのフロントエンド設計・開発を行い、ユーザーエクスペリエンスの最適化と高品質なコードの実装を目指します。また、アジャイル開発に取り組みながら、チームとコミュニケーションを密にし、積極的な改善提案を行ってください。",
+  "required_experience_and_skills": "Vue.js経験が必須で、HTML5, CSS3, JavaScript, Git, レスポンシブデザイン実装、アクセシビリティに関する知識が求められます。",
+  "min_annual_salary": "550",
+  "max_annual_salary": "1000",
+  "business_start_hour": "10",
+  "business_end_hour": "19",
+  "overtime_working_hours": "10",
+  "holiday_and_vacation": "週休二日制（土・日）、祝日、年末年始、有給休暇、慶弔休暇、リフレッシュ休暇",
+  "benefits": "各種社会保険完備、交通費支給、定期健康診断、社内イベント、研修制度、資格取得支援制度、育児・介護休暇制度"
+}

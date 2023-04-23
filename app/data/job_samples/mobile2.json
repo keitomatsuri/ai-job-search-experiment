@@ -1,0 +1,18 @@
+{
+  "id": "000008",
+  "company_name": "アプリマジック株式会社",
+  "job_category": "モバイルアプリエンジニア",
+  "employment_type": "正社員",
+  "location": "北海道札幌市",
+  "number_of_employees": "85",
+  "years_in_business": "2",
+  "job_description": "モバイルアプリエンジニアとして、主にSwiftを使用したiOSアプリの開発を担当いただきます。アプリの設計から実装、テスト、リリースに至るまでの一連の開発プロセスに参加し、効率的かつ高品質なソリューションを提供してください。",
+  "required_experience_and_skills": "Swiftを使用したiOSアプリ開発経験2年以上、Objective-Cの基本的な知識、UI/UXデザインの理解、API連携に関する知識、ソースコード管理ツール（Git等）の使用経験、チームでの開発経験が求められます。",
+  "min_annual_salary": "400",
+  "max_annual_salary": "700",
+  "business_start_hour": "9",
+  "business_end_hour": "18",
+  "overtime_working_hours": "20",
+  "holiday_and_vacation": "週休2日制（土・日）、祝日、夏季休暇、年末年始休暇、有給休暇、慶弔休暇、育児・介護休暇",
+  "benefits": "社会保険完備、交通費全額支給、賞与年2回、昇給年1回、社内研修制度、健康診断、社員旅行、スポーツ施設利用補助"
+}

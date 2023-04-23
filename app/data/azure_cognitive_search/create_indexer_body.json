@@ -1,0 +1,13 @@
+{
+  "name" : "myIndexerName",
+  "dataSourceName" : "myDsName",
+  "targetIndexName" : "myIndexName",
+  "fieldMappings": [
+    {
+        "sourceFieldName": "metadata_storage_name",
+        "targetFieldName": "file_name",
+        "mappingFunction": null
+    }
+  ],
+  "parameters" : { "configuration" : { "parsingMode" : "json" } }
+}

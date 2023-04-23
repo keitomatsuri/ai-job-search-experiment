@@ -1,0 +1,18 @@
+{
+  "id": "000009",
+  "company_name": "クラウドマスターズ株式会社",
+  "job_category": "インフラエンジニア",
+  "employment_type": "正社員",
+  "location": "京都府京都市",
+  "number_of_employees": "120",
+  "years_in_business": "10",
+  "job_description": "インフラエンジニアとして、AWSを活用したシステムの設計、構築、運用を担当していただきます。お客様のニーズに応じた最適なクラウド環境を構築し、セキュリティやパフォーマンスの向上に努めてください。",
+  "required_experience_and_skills": "AWSを使用したインフラ構築・運用の経験2年以上、Linux/Windows環境でのサーバー管理経験、ネットワーク構築・運用の知識、シェルスクリプトやPythonなどのプログラミングスキル、コンプライアンスやセキュリティに関する知識が求められます。",
+  "min_annual_salary": "450",
+  "max_annual_salary": "800",
+  "business_start_hour": "10",
+  "business_end_hour": "19",
+  "overtime_working_hours": "80",
+  "holiday_and_vacation": "週休2日制（土・日）、祝日、夏季休暇、年末年始休暇、有給休暇、慶弔休暇、育児・介護休暇",
+  "benefits": "社会保険完備、交通費全額支給、昇給年1回、社内研修制度、健康診断、社員旅行、スポーツ施設利用補助"
+}

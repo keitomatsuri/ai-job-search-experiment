@@ -1,0 +1,18 @@
+{
+  "id": "000005",
+  "company_name": "イノベーションクリエイターズ株式会社",
+  "job_category": "バックエンドエンジニア",
+  "employment_type": "正社員",
+  "location": "宮城県仙台市",
+  "number_of_employees": "370",
+  "years_in_business": "15",
+  "job_description": "弊社のバックエンドエンジニアとして、大規模なウェブサービスやモバイルアプリケーションの開発を担当します。Javaを使用したシステム開発に携わり、高速かつ安定したシステム基盤の構築を目指します。",
+  "required_experience_and_skills": "Javaを使用した開発経験3年以上、Springフレームワークの知識、データベース設計・運用の経験、分散システムの設計・運用経験。チームでの開発経験が望ましい。",
+  "min_annual_salary": "500",
+  "max_annual_salary": "1000",
+  "business_start_hour": "10",
+  "business_end_hour": "19",
+  "overtime_working_hours": "40",
+  "holiday_and_vacation": "週休2日制（土・日）、祝日、年末年始休暇、有給休暇、慶弔休暇、産前・産後休暇、育児休暇",
+  "benefits": "社会保険完備、交通費支給、賞与年2回、昇給年1回、退職金制度、社内イベント、研修制度、健康診断"
+}

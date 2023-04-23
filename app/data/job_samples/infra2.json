@@ -1,0 +1,18 @@
+{
+  "id": "000010",
+  "company_name": "ブルースカイソリューションズ株式会社",
+  "job_category": "インフラエンジニア",
+  "employment_type": "正社員",
+  "location": "福岡県福岡市",
+  "number_of_employees": "280",
+  "years_in_business": "7",
+  "job_description": "インフラエンジニアとして、Microsoft Azureを利用したインフラの設計・構築・運用を行います。お客様の要望に沿った柔軟なインフラ環境を提供し、システムの安定性やスケーラビリティの向上を目指してください。",
+  "required_experience_and_skills": "Azureを使用したインフラ構築・運用の経験5年以上、Linux/Windows環境でのサーバー管理経験、ネットワーク構築・運用の知識、PowerShellやPythonなどのプログラミングスキル、セキュリティ対策やデータ保護に関する知識が求められます。",
+  "min_annual_salary": "600",
+  "max_annual_salary": "950",
+  "business_start_hour": "9",
+  "business_end_hour": "18",
+  "overtime_working_hours": "25",
+  "holiday_and_vacation": "完全週休2日制（土・日）、祝日、年次有給休暇、夏季休暇、年末年始休暇、慶弔休暇、リフレッシュ休暇、育児・介護休暇",
+  "benefits": "社会保険完備、交通費全額支給、賞与年1回、昇給年1回、外部研修制度、健康診断、リモートワーク制度、社員割引制度、社内イベント"
+}

@@ -1,0 +1,176 @@
+{
+  "name": "myIndexName",
+  "fields": [
+    {
+      "name": "file_name",
+      "type": "Edm.String",
+      "searchable": false,
+      "filterable": false,
+      "retrievable": true,
+      "sortable": false,
+      "facetable": false,
+      "analyzer": null
+    },
+    {
+      "name": "id",
+      "type": "Edm.String",
+      "key": true,
+      "searchable": false,
+      "retrievable": true,
+      "facetable": false,
+      "filterable": false,
+      "sortable": false,
+      "analyzer": null
+    },
+    {
+      "name": "company_name",
+      "type": "Edm.String",
+      "searchable": true,
+      "retrievable": true,
+      "facetable": false,
+      "filterable": true,
+      "sortable": false,
+      "analyzer": "ja.microsoft"
+    },
+    {
+      "name": "job_category",
+      "type": "Edm.String",
+      "searchable": true,
+      "retrievable": true,
+      "facetable": false,
+      "filterable": true,
+      "sortable": false,
+      "analyzer": "ja.microsoft"
+    },
+    {
+      "name": "employment_type",
+      "type": "Edm.String",
+      "searchable": true,
+      "retrievable": true,
+      "facetable": false,
+      "filterable": true,
+      "sortable": false,
+      "analyzer": "ja.microsoft"
+    },
+    {
+      "name": "location",
+      "type": "Edm.String",
+      "searchable": true,
+      "retrievable": true,
+      "facetable": false,
+      "filterable": true,
+      "sortable": false,
+      "analyzer": "ja.microsoft"
+    },
+    {
+      "name": "number_of_employees",
+      "type": "Edm.Int32",
+      "searchable": false,
+      "retrievable": true,
+      "facetable": false,
+      "filterable": true,
+      "sortable": true,
+      "analyzer": null
+    },
+    {
+      "name": "years_in_business",
+      "type": "Edm.Int32",
+      "searchable": false,
+      "retrievable": true,
+      "facetable": false,
+      "filterable": true,
+      "sortable": true,
+      "analyzer": null
+    },
+    {
+      "name": "job_description",
+      "type": "Edm.String",
+      "searchable": true,
+      "retrievable": true,
+      "facetable": false,
+      "filterable": true,
+      "sortable": false,
+      "analyzer": "ja.microsoft"
+    },
+    {
+      "name": "required_experience_and_skills",
+      "type": "Edm.String",
+      "searchable": true,
+      "retrievable": true,
+      "facetable": false,
+      "filterable": true,
+      "sortable": false,
+      "analyzer": "ja.microsoft"
+    },
+    {
+      "name": "min_annual_salary",
+      "type": "Edm.Int32",
+      "searchable": false,
+      "retrievable": true,
+      "facetable": false,
+      "filterable": true,
+      "sortable": true,
+      "analyzer": null
+    },
+    {
+      "name": "max_annual_salary",
+      "type": "Edm.Int32",
+      "searchable": false,
+      "retrievable": true,
+      "facetable": false,
+      "filterable": true,
+      "sortable": true,
+      "analyzer": null
+    },
+    {
+      "name": "business_start_hour",
+      "type": "Edm.Int32",
+      "searchable": false,
+      "retrievable": true,
+      "facetable": false,
+      "filterable": true,
+      "sortable": true,
+      "analyzer": null
+    },
+    {
+      "name": "business_end_hour",
+      "type": "Edm.Int32",
+      "searchable": false,
+      "retrievable": true,
+      "facetable": false,
+      "filterable": true,
+      "sortable": true,
+      "analyzer": null
+    },
+    {
+      "name": "overtime_working_hours",
+      "type": "Edm.Int32",
+      "searchable": false,
+      "retrievable": true,
+      "facetable": false,
+      "filterable": true,
+      "sortable": true,
+      "analyzer": null
+    },
+    {
+      "name": "holiday_and_vacation",
+      "type": "Edm.String",
+      "searchable": true,
+      "retrievable": true,
+      "facetable": false,
+      "filterable": true,
+      "sortable": false,
+      "analyzer": "ja.microsoft"
+    },
+    {
+      "name": "benifits",
+      "type": "Edm.String",
+      "searchable": true,
+      "retrievable": true,
+      "facetable": false,
+      "filterable": true,
+      "sortable": false,
+      "analyzer": "ja.microsoft"
+    }
+  ]
+}

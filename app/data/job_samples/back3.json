@@ -1,0 +1,18 @@
+{
+  "id": "000006",
+  "company_name": "アドバンスドテック株式会社",
+  "job_category": "バックエンドエンジニア",
+  "employment_type": "正社員",
+  "location": "兵庫県神戸市",
+  "number_of_employees": "130",
+  "years_in_business": "8",
+  "job_description": "当社では、Rubyを活用したウェブアプリケーション開発プロジェクトに参画いただくバックエンドエンジニアを募集しています。高品質なコードを書くことで、顧客に最適なソリューションを提供し、ビジネスの成長を支えていただきます。",
+  "required_experience_and_skills": "Rubyを使用した開発経験2年以上、Ruby on Railsの知識、RESTful APIの設計・開発経験、データベースの運用・設計経験、協調性とコミュニケーション能力が求められます。",
+  "min_annual_salary": "400",
+  "max_annual_salary": "900",
+  "business_start_hour": "9",
+  "business_end_hour": "18",
+  "overtime_working_hours": "50",
+  "holiday_and_vacation": "週休2日制（土・日）、祝日、夏季休暇、年末年始休暇、有給休暇、慶弔休暇、育児・介護休暇",
+  "benefits": "社会保険完備、交通費全額支給、賞与年2回、昇給年1回、社内研修制度、健康診断、社員旅行、スポーツ施設利用補助"
+}

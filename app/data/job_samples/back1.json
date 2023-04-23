@@ -1,0 +1,18 @@
+{
+  "id": "000004",
+  "company_name": "デジタルイノベーションズ株式会社",
+  "job_category": "バックエンドエンジニア",
+  "employment_type": "正社員",
+  "location": "福岡県福岡市博多区",
+  "number_of_employees": "120",
+  "years_in_business": "7",
+  "job_description": "ウェブアプリケーションやサービスのバックエンド開発を担当し、安定性や拡張性を確保するための設計・実装を行います。新しい技術やツールを活用し、チームで協力しながら開発を進めます。",
+  "required_experience_and_skills": "PHPの実務経験が必須で、LaravelやSymfonyなどのフレームワークの知識、MySQLやPostgreSQLなどのデータベース管理スキルが求められます。",
+  "min_annual_salary": "450",
+  "max_annual_salary": "900",
+  "business_start_hour": "9",
+  "business_end_hour": "18",
+  "overtime_working_hours": "30",
+  "holiday_and_vacation": "完全週休二日制（土・日）、祝日、夏季休暇、冬季休暇、有給休暇、慶弔休暇",
+  "benefits": "各種社会保険完備、交通費支給、健康診断、研修制度、資格取得支援制度、引越し支援制度、福利厚生施設利用、産休・育休制度、育児支援制度、報奨金制度"
+}

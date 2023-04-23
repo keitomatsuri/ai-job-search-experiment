@@ -1,0 +1,18 @@
+{
+  "id": "000001",
+  "company_name": "クリエイティブフュージョン株式会社",
+  "job_category": "フロントエンドエンジニア",
+  "employment_type": "正社員",
+  "location": "神奈川県横浜市西区",
+  "number_of_employees": "80",
+  "years_in_business": "10",
+  "job_description": "ウェブアプリケーションのフロントエンド開発を担当し、UI/UX設計から実装、保守・運用まで一貫して行っていただきます。チームと協力して使いやすく魅力的なプロダクトを開発し、ユーザーエクスペリエンスの向上に貢献してください。また、新技術の研究やチーム内でのナレッジシェアも期待されます。",
+  "required_experience_and_skills": "React, TypeScriptを必須とし、HTML5, CSS3, Git, コードレビュー、チームでの開発経験が求められます。",
+  "min_annual_salary": "550",
+  "max_annual_salary": "1000",
+  "business_start_hour": "9",
+  "business_end_hour": "18",
+  "overtime_working_hours": "20",
+  "holiday_and_vacation": "週休二日制（土・日）、祝日、年末年始、有給休暇、慶弔休暇、リフレッシュ休暇",
+  "benefits": "各種社会保険完備、交通費支給、定期健康診断、社内イベント、研修制度、資格取得支援制度、育児・介護休暇制度"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "000003",
+  "company_name": "クリエイティブフォース株式会社",
+  "job_category": "フロントエンドエンジニア",
+  "employment_type": "正社員",
+  "location": "大阪府大阪市中央区",
+  "number_of_employees": "80",
+  "years_in_business": "12",
+  "job_description": "スマートフォンアプリやウェブサービスのフロントエンド開発を担当し、ユーザー体験を向上させるUI/UXデザインの提案・実装を行います。アジャイル開発を適用し、チームで連携して進めます。",
+  "required_experience_and_skills": "Reactの実務経験が必須で、Redux、JavaScript、HTML5、CSS3、Sass、Gitなどの技術に習熟していることが求められます。",
+  "min_annual_salary": "500",
+  "max_annual_salary": "1000",
+  "business_start_hour": "10",
+  "business_end_hour": "19",
+  "overtime_working_hours": "60",
+  "holiday_and_vacation": "完全週休二日制（土・日）、祝日、夏季休暇、冬季休暇、有給休暇、慶弔休暇、誕生日休暇",
+  "benefits": "各種社会保険完備、交通費支給、健康診断、社内勉強会、資格取得支援制度、引越し支援制度、社員割引制度、産休・育休制度、時間外手当、報奨金制度"
+}
